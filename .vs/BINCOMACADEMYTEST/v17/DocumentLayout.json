@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Migrations\\20240924182053_CarDealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240924182053_CarDealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Migrations\\20240924180330_CarDealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240924180330_CarDealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\inquiryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:inquiryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\controllers\\inquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:controllers\\inquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\inquiryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:inquiryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\inquirydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:inquirydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\inquirycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:inquirycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\inquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:inquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\iinquiryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:iinquiryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\carcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:carcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|c:\\users\\user\\source\\repos\\bincomacademytest\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F075CF-EBF9-4FD6-AF2E-0387A4C7B5E4}|BINCOMACADEMYTEST.csproj|solutionrelative:cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240924182053_CarDealer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Migrations\\20240924182053_CarDealer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240924182053_CarDealer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Migrations\\20240924182053_CarDealer.cs",
+              "RelativeToolTip": "Migrations\\20240924182053_CarDealer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:20:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240924180330_CarDealer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Migrations\\20240924180330_CarDealer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240924180330_CarDealer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Migrations\\20240924180330_CarDealer.cs",
+              "RelativeToolTip": "Migrations\\20240924180330_CarDealer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:03:31.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InquiryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\InquiryRepository.cs",
+              "RelativeDocumentMoniker": "InquiryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\InquiryRepository.cs",
+              "RelativeToolTip": "InquiryRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAIA7wA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:02:30.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InquiryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Controllers\\InquiryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InquiryController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Controllers\\InquiryController.cs",
+              "RelativeToolTip": "Controllers\\InquiryController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:59:06.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Controllers\\CarController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:59:02.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T17:55:30.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:51:30.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InquiryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\InquiryCreateDto.cs",
+              "RelativeDocumentMoniker": "InquiryCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\InquiryCreateDto.cs",
+              "RelativeToolTip": "InquiryCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:51:22.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\ICarService.cs",
+              "RelativeDocumentMoniker": "ICarService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\ICarService.cs",
+              "RelativeToolTip": "ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:51:20.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\CarDto.cs",
+              "RelativeDocumentMoniker": "CarDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\CarDto.cs",
+              "RelativeToolTip": "CarDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:51:12.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:44:08.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InquiryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\InquiryService.cs",
+              "RelativeDocumentMoniker": "InquiryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\InquiryService.cs",
+              "RelativeToolTip": "InquiryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:44:05.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InquiryDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\InquiryDto.cs",
+              "RelativeDocumentMoniker": "InquiryDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\InquiryDto.cs",
+              "RelativeToolTip": "InquiryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:44:03.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Inquiry.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Inquiry.cs",
+              "RelativeDocumentMoniker": "Inquiry.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Inquiry.cs",
+              "RelativeToolTip": "Inquiry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:44:02.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IInquiryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\IInquiryRepository.cs",
+              "RelativeDocumentMoniker": "IInquiryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\IInquiryRepository.cs",
+              "RelativeToolTip": "IInquiryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:44:01.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "ICarRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\ICarRepository.cs",
+              "RelativeToolTip": "ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:43:59.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\CarRepository.cs",
+              "RelativeDocumentMoniker": "CarRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\CarRepository.cs",
+              "RelativeToolTip": "CarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:43:58.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\CarCreateDto.cs",
+              "RelativeDocumentMoniker": "CarCreateDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\CarCreateDto.cs",
+              "RelativeToolTip": "CarCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:43:55.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:19:46.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BINCOMACADEMYTEST\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:34:38.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

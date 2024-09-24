@@ -1,0 +1,6 @@
+@BINCOMACADEMYTEST_HostAddress = http://localhost:5097
+
+GET {{BINCOMACADEMYTEST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
